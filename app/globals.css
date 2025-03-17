@@ -1,0 +1,13 @@
+:root {
+    --nextra-primary-hue: 205 !important;  /* Change primary color (default: blue) */
+    --nextra-primary-saturation: 50% !important; 
+    --nextra-primary-lightness: 50%;
+  }
+
+[class="dark"] nav img {
+    filter: invert(1);
+}
+
+nav img {
+    min-width: 180px;
+}
