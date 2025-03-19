@@ -9,5 +9,6 @@ export default {
     "referral-system": "Referral System",
     "clan-system": "Clan System",
     "shop": "Shop",
+    "starter-packs": "Starter Packs",
     "email-service": "Email Service",
 };
